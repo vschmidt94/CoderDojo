@@ -1,1 +1,4 @@
-This is a second file to test git
+This is a second file to test git that I used
+
+This is the git training that is supposed to show me
+how this workds.

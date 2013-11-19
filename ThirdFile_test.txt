@@ -1,3 +1,5 @@
 This is a third file to test git
 
 Now adding a new line to this file
+
+Now adding another line
