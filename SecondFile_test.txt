@@ -2,3 +2,6 @@ This is a second file to test git that I used
 
 This is the git training that is supposed to show me
 how this workds.
+
+This is the 2nd file I added.  WooHoo.
+Yeah buddy.
